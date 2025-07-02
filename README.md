@@ -36,7 +36,7 @@ A simple Streamlit interface that:
   - `oldbalanceDest`, `newbalanceDest`
 - Loads the trained `.pkl` model
 - Predicts whether the transaction is fraudulent
-- Displays the result in a friendly way
+- Displays the result in Streamlit.app
 
 ---
 
