@@ -17,6 +17,8 @@ A Jupyter Notebook that performs:
     ![image](https://github.com/user-attachments/assets/d1592193-8d77-4745-9037-1743e2fcdc78)
   - Boxplots of `amount` vs `isFraud`
     ![image](https://github.com/user-attachments/assets/37134167-bbeb-49df-9c01-4b1a36781adc)
+  - Correlation Matrix of numeric features
+    ![image](https://github.com/user-attachments/assets/827113ea-40b1-4759-b053-42f2124dea95)
 
 - **Feature Engineering**: Transforms categorical and numerical variables.
 - **Model Training**: Builds a machine learning pipeline using `RandomForestClassifier` or similar.
