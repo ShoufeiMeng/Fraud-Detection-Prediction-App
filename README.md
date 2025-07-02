@@ -4,9 +4,9 @@ This project aims to build a machine learning model to detect fraudulent financi
 
 ---
 
-## 📌 Overview
+## Overview
 
-### 🔎 Notebook: `analysis_model.ipynb`
+### Notebook: `analysis_model.ipynb`
 A Jupyter Notebook that performs:
 
 - **Data Exploration & Cleaning**: Reads and cleans the transaction dataset.
@@ -26,7 +26,7 @@ A Jupyter Notebook that performs:
 
 ---
 
-### 💻 App: `app.py`
+### App: `app.py`
 A simple Streamlit interface that:
 
 - Takes user input for transaction details:
